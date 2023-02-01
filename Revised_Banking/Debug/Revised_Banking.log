@@ -1,0 +1,10 @@
+﻿  control.cpp
+C:\Users\speed\source\repos\Revised_Banking\Revised_Banking\control.cpp(68,6): warning C4101: 'pword': unreferenced local variable
+C:\Users\speed\source\repos\Revised_Banking\Revised_Banking\control.cpp(185,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\speed\source\repos\Revised_Banking\Revised_Banking\control.cpp(203,28): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\speed\source\repos\Revised_Banking\Revised_Banking\control.cpp(319,11): warning C4129: 'S': unrecognized character escape sequence
+C:\Users\speed\source\repos\Revised_Banking\Revised_Banking\control.cpp(346,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\speed\source\repos\Revised_Banking\Revised_Banking\control.cpp(359,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Revised_Banking.vcxproj -> C:\Users\speed\source\repos\Revised_Banking\Debug\Revised_Banking.exe
